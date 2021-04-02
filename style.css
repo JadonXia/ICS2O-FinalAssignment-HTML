@@ -1,0 +1,22 @@
+body {
+  background-color: lightcyan
+}
+
+.box1 {
+  background-color: white;
+  padding: 10px;
+  border: solid black 2px;
+  width: 25%;
+}
+
+.box2 {
+  background-color: white;
+  padding: 10px;
+  border: solid black 2px;
+  width: 50%;
+}
+
+.game {
+  width: 400px;
+  height: 400px;
+}
