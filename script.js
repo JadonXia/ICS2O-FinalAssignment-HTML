@@ -7,7 +7,7 @@ while (guess !== numb) {
   guess = prompt('To ensure you are not a robot, enter in this code: 3925')
   guess = parseInt(guess)
   if (guess === numb) {
-    alert('Verified. Please proceed to the maze game.')
+    alert('Verified. Please proceed to obstacle maze.')
   } else if (guess < numb) {
     alert('Try again.')
   } else if (guess > numb) {
